@@ -87,4 +87,4 @@ print("\n")
 for i in range(0, len(regions_nations), 8):
     print(", ".join(regions_nations[i:i+8]))
     print(f'{template}\n')
-    time.sleep(50)
+    time.sleep(90)
